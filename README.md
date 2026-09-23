@@ -54,6 +54,7 @@ attractiveness_index =
 
 ---
 ![Тепловая карта привлекательности](docs/heatmap.png)
+**[Открыть интерактивную карту →](https://afzalsgtv.github.io/GP2_team34/)**
 
 ## Пайплайн
 
